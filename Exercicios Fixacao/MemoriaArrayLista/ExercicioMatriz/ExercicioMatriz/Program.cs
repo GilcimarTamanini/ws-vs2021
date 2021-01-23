@@ -25,7 +25,6 @@ namespace ExercicioMatriz
 
             Console.WriteLine("Digite um numero da matriz: ");
             int numMat = int.Parse(Console.ReadLine());
-            int i;
 
             for (int x = 0; x < m; x++)
             {
